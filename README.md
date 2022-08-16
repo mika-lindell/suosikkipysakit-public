@@ -1,1 +1,1 @@
-# Repository to serve public documents related to Lempipysäkit app
+- Repository to serve public documents related to Lempipysäkit app
